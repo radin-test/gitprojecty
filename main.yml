@@ -1,2 +1,3 @@
 installed apache
+setup httpd.conf
 restarted apache
