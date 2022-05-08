@@ -1,3 +1,4 @@
 installed apache
 setup httpd.conf
+setup vitual host
 restarted apache
