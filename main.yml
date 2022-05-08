@@ -1,4 +1,5 @@
 installed apache
+setup docroot
 setup httpd.conf
 setup vitual host
 restarted apache
